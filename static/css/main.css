@@ -15,12 +15,12 @@ body {
 }
 
 .logo img {
-    width: 500px;
+    width: 300px;
     height: auto;
 }
 
 h1 {
-    color: #FFA500;
+    color: #d900ff;
     font-size: 3rem;
     text-align: center;
     margin-top: 2rem;
